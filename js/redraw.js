@@ -84,7 +84,7 @@ function redrawByOnto() {
         activeOnto.style.background = "rgba(72, 137, 244, 0.3)";
     }
 
-    document.getElementById("fileuploader").value = null;
+    // document.getElementById("fileuploader").value = null;
 
     loadData(ontoPath);
 
